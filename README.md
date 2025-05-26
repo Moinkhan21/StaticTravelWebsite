@@ -1,9 +1,9 @@
 
 ---
 
-# 🌍 Travel Journal – Explore the World, One Entry at a Time! ✈️
+# 🌍 Static Travel Journal – Explore the World, One Entry at a Time! ✈️
 
-A **ReactJS**-based Travel Journal App that displays memorable destinations with rich visuals, location markers, travel dates, and custom descriptions. This project showcases a modular React structure with props, conditional rendering, mapping, and reusable components.
+A **ReactJS**-based Static Travel Journal App that displays memorable destinations with rich visuals, location markers, travel dates, and custom descriptions. This project showcases a modular React structure with props, conditional rendering, mapping, and reusable components.
 
 ---
 
